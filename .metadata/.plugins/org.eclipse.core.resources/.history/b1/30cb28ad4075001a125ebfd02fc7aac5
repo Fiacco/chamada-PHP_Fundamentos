@@ -1,0 +1,14 @@
+<?php
+$numero1=6;
+$numero2=8;
+if($numero1 > $numero2)
+{
+	echo "$numero2, $numero1";
+}
+else
+{
+echo"$numero2","$numero1";
+}
+	
+	
+?>

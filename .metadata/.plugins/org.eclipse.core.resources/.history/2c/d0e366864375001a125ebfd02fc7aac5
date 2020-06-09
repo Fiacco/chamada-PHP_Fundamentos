@@ -1,0 +1,12 @@
+<?php
+$salario_fixo=1500;
+$valor_vendas=1000;
+if($valor_vendas<=1500)
+	$salario_final=$salario_fixo+($valor_vendas*0.03);
+else 
+	$salario_final=$salario_fixo+($valor_vendas*0.05);
+	
+	
+	echo"o salario final é $salario_final"
+	
+?>

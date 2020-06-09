@@ -1,0 +1,10 @@
+<?php
+$a=1;
+if($a >=10)
+	echo"o valor é maior que 10 \n";
+else
+	echo "é menor que 10";
+
+
+	
+?>
